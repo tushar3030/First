@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+This is my first project
+<title>
+This includes not so useful information cause its just to learn HTML.
+</title>
+</head>
+<body>
+<h1>
+Abes Engineering college
+</h1>
+<p align="right">
+PIN=201009
+ADDRESS=24TH km stone,lal kuan,ghaziabad.
+COURSES=B.tech,MBA,etc...
+CONTACT NO.=914*******69
+</p>
+<h2>
+AKGEC
+</h2>
+<p align="left">
+PIN=201059
+ADDRESS=NH-12,ghaziabad.
+COURSES=B.tech,MBA,etc...
+</p>
+</body>
+</html>
